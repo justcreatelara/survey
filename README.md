@@ -1,6 +1,6 @@
-json files are saved storage directory thus no need for database config
+json files are saved storage/jsonFiles directory thus no need for database config
 
-run thr app:
+run the app:
     
     php artisan serve
     
