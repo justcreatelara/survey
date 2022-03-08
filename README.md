@@ -1,5 +1,9 @@
 json files are saved storage/jsonFiles directory thus no need for database config
 
+data is fetched directly from json files without modeling
+
+logic is located in DataController
+
 run the app:
     
     php artisan serve
