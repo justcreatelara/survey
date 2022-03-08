@@ -6,6 +6,8 @@ logic is located in DataController
 
 run the app:
     
+    composer install
+    
     php artisan serve
     
     localhost/api/list : to list all surveys
